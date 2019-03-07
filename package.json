@@ -1,0 +1,22 @@
+{
+  "name": "avaliateon",
+  "version": "1.0.0",
+  "description": "software para avaliação de desempenho profissional",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cleidijane/avaliateon.git"
+  },
+  "author": "@boothgames",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cleidijane/avaliateon/issues"
+  },
+  "homepage": "https://github.com/Cleidijane/avaliateon#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
